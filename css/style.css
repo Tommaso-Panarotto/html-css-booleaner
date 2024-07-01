@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    background-color: red;
 }
 
 header {
@@ -83,4 +82,31 @@ table {
 .cell {
     table-layout: fixed;
     width: 400px;
+}
+
+.desktop {
+    width: 312px;
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    padding-bottom: 10px;
+    color: #FFFFFF;
+    font-size: 145%;
+    font-weight: bold;
+    line-height: 208px;
+}
+
+.maps {
+    width: 312px;
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+    background-size: 312px 208px;
+    color: #FFFFFF;
+    font-size: 145%;
+    font-weight: bold;
+    line-height: 208px;
+}
+
+h4 {
+    font-size: 28px;
+    color: rgb(182, 180, 180)
 }
