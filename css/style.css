@@ -53,3 +53,12 @@ h5 {
 .description {
     font-size: 18px;
 }
+
+.text {
+    font-size: 20px;
+}
+
+.list {
+    padding-left: 20px;
+    font-size: 20px;
+}
